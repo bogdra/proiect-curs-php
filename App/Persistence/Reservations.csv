@@ -1,0 +1,10 @@
+id;username;room_type;nights;payment_method;number_of_installments
+1;bogdan;single;2;installments;4
+2;bogdan;single;2;full;0
+3;bogdanel;single;3;full;0
+4;bogdanel;double;2;full;0
+5;bogdanel;single;3;full;0
+6;bogdanel;single;2;installments;3
+7;bogdanel;single;3;full;0
+8;bogdanel;single;3;full;0
+9;bogdanel;single;3;full;0

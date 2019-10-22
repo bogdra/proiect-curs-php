@@ -1,0 +1,6 @@
+id;username;password;email;full_name;photo;role
+1;admin;21232f297a57a5a743894a0e4a801fc3;sdfsdfsd@yahoo.com;The Administrator;undefined;admin
+7;bogdan;5d93ceb70e2bf5daa84ec3d0cd2c731a;bogdan@dragoi.ro;Bogdan;undefined;user
+8;dragos;6b75772a5ffcd48bb5d4abd59532769e;dragoi@dragoi.ro;"Dragos Dragoi";undefined;user
+9;adrian;5d93ceb70e2bf5daa84ec3d0cd2c731a;adi@yahoo.com;"adi eavaz";undefined;user
+10;bogdanel;5d93ceb70e2bf5daa84ec3d0cd2c731a;bogdanasr@yago.com;"Bogdan Dragoi";undefined;user
